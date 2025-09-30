@@ -5,7 +5,7 @@ Understand what makes a password strong and test it using online password streng
 
 ## Steps Followed
 1. Created multiple passwords with varying complexity.
-2. Tested each password on [passwordmeter.com](https://passwordmeter.com).
+2. Tested each password on [passwordmonster.com](https://passwordmonster.com).
 3. Saved results as screenshots and noted feedback.
 4. Researched common password attacks.
 5. Wrote down best practices for strong passwords.
