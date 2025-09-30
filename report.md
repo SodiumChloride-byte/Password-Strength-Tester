@@ -6,7 +6,15 @@
 3. `CyBeR!@00` → Medium
 4. `Pa@ssw0rd!23` → Medium
 5. `Pa@s$vv0rd123` → Strong 
-6. `Yuc8$RikA34%ZoPPao98t` → Strong 
+6. `Yuc8$RikA34%ZoPPao98t` → Strong
+
+![Test screenshot](weak1.png)
+![Test screenshot](weak2.png)
+![Test screenshot](medium1.png)
+![Test screenshot](medium2.png)
+![Test screenshot](strong1.png)
+![Test screenshot](strong2.png)
+
 
 ### Observations
 - Simple lowercase words are easily broken.
