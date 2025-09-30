@@ -24,3 +24,5 @@ Understand what makes a password strong and test it using online password streng
 
 ## Tools Used
 - [Password Meter](https://passwordmeter.com) (online free tool)
+- [Password Monster](https://www.passwordmonster.com/) (online free tool)
+
