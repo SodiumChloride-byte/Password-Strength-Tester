@@ -1,9 +1,12 @@
 # Password Strength Report
 
 ### Passwords Tested
-1. `hello123` → Weak (score: 20%)
-2. `Hello@123` → Medium (score: 50%)
-3. `He!!o_123!2025` → Strong (score: 85%)
+1. `password123` → Weak 
+2. `qwerty` → Weak
+3. `CyBeR!@00` → Medium
+4. `Pa@ssw0rd!23` → Medium
+5. `Pa@s$vv0rd123` → Strong 
+6. `Yuc8$RikA34%ZoPPao98t` → Strong 
 
 ### Observations
 - Simple lowercase words are easily broken.
