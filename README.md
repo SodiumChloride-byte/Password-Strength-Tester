@@ -22,6 +22,8 @@ Understand what makes a password strong and test it using online password streng
 - Multi-factor authentication adds an extra layer of protection.
 - Password managers can help generate and store secure passwords.
 
+## Passwords Tested: [passwords_tested.txt](./passwords_tested.txt)
+
 ## Tools Used
 - [Password Meter](https://passwordmeter.com) (online free tool)
 - [Password Monster](https://www.passwordmonster.com/) (online free tool)
